@@ -1,0 +1,22 @@
+This is TeX, Version 3.14159265 (TeX Live 2017/Debian) (preloaded format=tex 2018.6.1)  7 OCT 2018 18:42
+**presentation.tex
+(./presentation.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [10pt]{beamer}
+? 
+! Undefined control sequence.
+l.2 \usetheme
+             [
+? 
+! Undefined control sequence.
+l.25 \usepackage
+                [utf8]{inputenc}
+? 
+! Interruption.
+<to be read again> 
+                   [
+l.25 \usepackage[
+                 utf8]{inputenc}
+? exit
+No pages of output.
